@@ -11,7 +11,7 @@ ul.nav {
   list-style-type: none;
   overflow: hidden;
   min-height: 50px;
-  background-color: #035956;
+  background-color: white;
 }
 
 li a {
@@ -20,15 +20,18 @@ li a {
 
 li a {
   display: block;
-  color: white;
+  color: #035956;
+  border: 2px solid #035956;
   text-align: center;
   padding: 30px 30px 10px 30px;
   text-decoration: none;
+  margin: 15px;
+  border-radius: 5px;
 }
 
 li a:hover {
-  background-color: #2f6e77;
-  color: white;
+  background-color: #e7e3f9;
+  color: #9c89f9;
 }
 
 .jumbotron {
@@ -67,8 +70,6 @@ span {
   padding: 0px;
 }
 
-
-
 .portfolio {
 	border: solid #035956 2px;
 	display: inline-block;
@@ -97,6 +98,15 @@ h4.portfolio {
   background-color: #174f45;
   color: white;
   margin: 0px 20px 0px 15px;
+}
+
+.thumbnail img {
+	float: right;
+	height: 150px;
+	display: inline-block;
+	border: solid darkgray 1px;
+	box-shadow: 10px 10px 5px grey;
+	position: relative;
 }
 
 .hearts {
