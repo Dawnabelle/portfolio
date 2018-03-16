@@ -38,9 +38,15 @@ li.sub {
 	border: solid #035956 2px;
 	display: inline-block;
   overflow: hidden;
-	margin: 20px 0px;
-	max-width: 70%;
-	box-shadow: 5px 5px 2px grey;
-	border-radius: 5px;
-	background-color: rgba(128, 128, 128, 0.64);
+	margin: 18px 0px;
+  padding: 20px;
+	max-width: 60%;
+	box-shadow: 5px 5px 2px #0fc16c;
+	border-radius: 10px;
+	background-color: #a6edcb;
+}
+
+h4.portfolio {
+  background-color: #174f45;
+  color: #e3f7f3;
 }
