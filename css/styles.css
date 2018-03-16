@@ -70,6 +70,10 @@ span {
   padding: 0px;
 }
 
+ul.nodot {
+  list-style-type: none;
+}
+
 .portfolio {
 	border: solid #035956 2px;
 	display: inline-block;
