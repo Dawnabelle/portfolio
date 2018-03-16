@@ -1,0 +1,35 @@
+body {
+  padding: 50px;
+  margin 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul.nav {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #035956;
+}
+
+li a {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 24px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #2f6e77;
+  color: white;
+}
+
+li.sub {
+  background-color: none;
+}
