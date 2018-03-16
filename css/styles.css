@@ -33,3 +33,14 @@ li a:hover {
 li.sub {
   background-color: none;
 }
+
+.portfolio {
+	border: solid #035956 2px;
+	display: inline-block;
+  overflow: hidden;
+	margin: 20px 0px;
+	max-width: 70%;
+	box-shadow: 5px 5px 2px grey;
+	border-radius: 5px;
+	background-color: rgba(128, 128, 128, 0.64);
+}
