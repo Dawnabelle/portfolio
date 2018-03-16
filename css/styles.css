@@ -30,6 +30,11 @@ li a:hover {
   color: white;
 }
 
+.jumbotron {
+  background-color: #a4eadc;
+  margin-top: 30px;
+}
+
 li.sub {
   background-color: none;
 }
@@ -46,7 +51,20 @@ li.sub {
 	background-color: #a6edcb;
 }
 
+.portfolio:nth-child(2n) {
+	float: right;
+	clear: left;
+	margin-right: 4%;
+}
+
+.portfolio:nth-child(2n+1) {
+	float: left;
+	clear: right;
+	margin-left: 4%;
+}
+
 h4.portfolio {
   background-color: #174f45;
-  color: #e3f7f3;
+  color: white;
+  margin: 0px 20px 0px 15px;
 }
