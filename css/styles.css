@@ -35,6 +35,10 @@ li a:hover {
   margin-top: 30px;
 }
 
+.container {
+  text-align: center;
+}
+
 li.sub {
   background-color: none;
 }
@@ -67,4 +71,8 @@ h4.portfolio {
   background-color: #174f45;
   color: white;
   margin: 0px 20px 0px 15px;
+}
+
+.hearts {
+  text-align: center;
 }
