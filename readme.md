@@ -5,7 +5,7 @@
 #### By _**Dawn Mott**_
 
 ## GitHub Pages Link
-[This is a link to my github] (dawnabelle.github.io/portfolio)
+[This is a link to my github](dawnabelle.github.io/portfolio)
 
 ## Description
 
